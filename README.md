@@ -5,7 +5,7 @@
 This project aims to classify different types of date fruits using transfer learning techniques. Date fruits come in various types, and each type has unique characteristics. Accurate classification of date fruits is vital for quality control, market segmentation, and consumer information. Traditional image classification methods require extensive labeled data and significant computational resources. Transfer learning allows us to leverage pre-trained models with limited labeled data to achieve high classification performance.
 
 ## Dataset
-The dataset used for this task consists of images of various types of date fruits. The images are divided into several classes, each representing a different type of date. The dataset is split into training, validation, and test sets to evaluate the performance of the classification model. The images vary in size, color, and shape, representing the diversity of date fruits.
+The dataset used for this task consists of images of various types of date fruits. The images are divided into several classes, each representing a different type of date. The dataset is split into training, validation, and test sets to evaluate the performance of the classification model. The images vary in color, and shape, representing the diversity of date fruits.
 Evaluation Metrics
 To assess the performance of the fine-tuned models, we use the following evaluation metrics:
 
